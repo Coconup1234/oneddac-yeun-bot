@@ -2,7 +2,7 @@ import json, os
 from datetime import datetime, timezone, timedelta
 from playwright.sync_api import sync_playwright
 
-SETS = ["OP15"]  # [김윤서] 먼저 테스트용으로 OP15만 해보자
+SETS = [f"OP{n:02d}" for n in range(1, 16)]  # [김윤서] 먼저 테스트용으로 OP15만 해보자
 KST = timezone(timedelta(hours=9))
 os.makedirs("data", exist_ok=True)
 
