@@ -1,66 +1,61 @@
 {
  "set": "OP14",
- "updated": "2026-10-27 09:10 KST",
+ "updated": "2026-10-28 09:12 KST",
  "decks": [
   {
    "name": "Imu (Black)",
    "decks": "64 decks",
-   "share": "25.8%"
-  },
-  {
-   "name": "Dracule Mihawk (Green)",
-   "decks": "62 decks",
-   "share": "25.0%"
+   "share": "34.4%"
   },
   {
    "name": "Donquixote Rosinante (Purple/Yellow)",
    "decks": "28 decks",
-   "share": "11.3%"
+   "share": "15.1%"
   },
   {
    "name": "Sanji (Blue/Purple)",
    "decks": "14 decks",
-   "share": "5.6%"
+   "share": "7.5%"
   },
   {
    "name": "Donquixote Doflamingo (Purple)",
    "decks": "11 decks",
-   "share": "4.4%"
+   "share": "5.9%"
   },
   {
    "name": "Monkey.D.Luffy (Green/Red)",
    "decks": "9 decks",
-   "share": "3.6%"
+   "share": "4.8%"
   },
   {
    "name": "Monkey.D.Luffy (Yellow)",
    "decks": "9 decks",
-   "share": "3.6%"
+   "share": "4.8%"
   },
   {
    "name": "Gecko Moria (Black/Yellow)",
    "decks": "7 decks",
-   "share": "2.8%"
+   "share": "3.8%"
   },
   {
    "name": "Sabo (Black/Red)",
    "decks": "6 decks",
-   "share": "2.4%"
+   "share": "3.2%"
   },
   {
    "name": "Trafalgar Law (Green/Red)",
    "decks": "6 decks",
-   "share": "2.4%"
+   "share": "3.2%"
   },
   {
    "name": "Crocodile (Black)",
    "decks": "5 decks",
-   "share": "2.0%"
+   "share": "2.7%"
   },
   {
    "name": "Jewelry Bonney (Green)",
    "decks": "4 decks",
-   "share": "1.6%"
+   "share": "2.2%"
   }
  ]
 }

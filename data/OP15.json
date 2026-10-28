@@ -1,46 +1,41 @@
 {
  "set": "OP15",
- "updated": "2026-10-27 09:10 KST",
+ "updated": "2026-10-28 09:12 KST",
  "decks": [
   {
    "name": "Enel (Purple)",
    "decks": "159 decks",
-   "share": "33.5%"
+   "share": "35.5%"
   },
   {
    "name": "Nami (Blue/Yellow)",
    "decks": "121 decks",
-   "share": "25.5%"
+   "share": "27.0%"
   },
   {
    "name": "Lucy (Blue/Red)",
    "decks": "55 decks",
-   "share": "11.6%"
-  },
-  {
-   "name": "Dracule Mihawk (Green)",
-   "decks": "27 decks",
-   "share": "5.7%"
+   "share": "12.3%"
   },
   {
    "name": "Portgas.D.Ace (Blue/Red)",
    "decks": "27 decks",
-   "share": "5.7%"
+   "share": "6.0%"
   },
   {
    "name": "Monkey.D.Luffy (Green/Red)",
    "decks": "21 decks",
-   "share": "4.4%"
+   "share": "4.7%"
   },
   {
    "name": "Monkey.D.Luffy (Yellow)",
    "decks": "19 decks",
-   "share": "4.0%"
+   "share": "4.2%"
   },
   {
    "name": "Crocodile (Black)",
    "decks": "9 decks",
-   "share": "1.9%"
+   "share": "2.0%"
   },
   {
    "name": "Kalgara (Yellow)",
@@ -55,12 +50,12 @@
   {
    "name": "Jewelry Bonney (Green)",
    "decks": "4 decks",
-   "share": "0.8%"
+   "share": "0.9%"
   },
   {
    "name": "Enel (Yellow)",
    "decks": "3 decks",
-   "share": "0.6%"
+   "share": "0.7%"
   }
  ]
 }
