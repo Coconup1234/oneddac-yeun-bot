@@ -1,31 +1,26 @@
 {
  "set": "OP07",
- "updated": "2026-11-18 11:42 KST",
+ "updated": "2026-11-19 11:11 KST",
  "decks": [
   {
    "name": "Jewelry Bonney (Green)",
    "decks": "41 decks",
-   "share": "41.8%"
+   "share": "54.7%"
   },
   {
    "name": "Enel (Yellow)",
    "decks": "25 decks",
-   "share": "25.5%"
-  },
-  {
-   "name": "Nami (Blue)",
-   "decks": "21 decks",
-   "share": "21.4%"
+   "share": "33.3%"
   },
   {
    "name": "Monkey.D.Luffy (Purple)",
    "decks": "4 decks",
-   "share": "4.1%"
+   "share": "5.3%"
   },
   {
    "name": "Charlotte Katakuri (Yellow)",
    "decks": "3 decks",
-   "share": "3.1%"
+   "share": "4.0%"
   }
  ]
 }

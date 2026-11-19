@@ -1,41 +1,36 @@
 {
  "set": "OP05",
- "updated": "2026-11-18 11:42 KST",
+ "updated": "2026-11-19 11:11 KST",
  "decks": [
   {
    "name": "Sakazuki (Black/Blue)",
    "decks": "35 decks",
-   "share": "42.7%"
+   "share": "44.3%"
   },
   {
    "name": "Monkey.D.Luffy (Purple)",
    "decks": "17 decks",
-   "share": "20.7%"
+   "share": "21.5%"
   },
   {
    "name": "Enel (Yellow)",
    "decks": "11 decks",
-   "share": "13.4%"
+   "share": "13.9%"
   },
   {
    "name": "Roronoa Zoro (Red)",
    "decks": "5 decks",
-   "share": "6.1%"
+   "share": "6.3%"
   },
   {
    "name": "Uta (Green)",
    "decks": "3 decks",
-   "share": "3.7%"
-  },
-  {
-   "name": "Nami (Blue)",
-   "decks": "3 decks",
-   "share": "3.7%"
+   "share": "3.8%"
   },
   {
    "name": "Charlotte Katakuri (Yellow)",
    "decks": "3 decks",
-   "share": "3.7%"
+   "share": "3.8%"
   }
  ]
 }

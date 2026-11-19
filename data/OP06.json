@@ -1,36 +1,31 @@
 {
  "set": "OP06",
- "updated": "2026-11-18 11:42 KST",
+ "updated": "2026-11-19 11:11 KST",
  "decks": [
   {
    "name": "Edward.Newgate (Red)",
    "decks": "28 decks",
-   "share": "32.6%"
+   "share": "35.0%"
   },
   {
    "name": "Uta (Green)",
    "decks": "24 decks",
-   "share": "27.9%"
+   "share": "30.0%"
   },
   {
    "name": "Yamato (Green/Yellow)",
    "decks": "12 decks",
-   "share": "14.0%"
-  },
-  {
-   "name": "Nami (Blue)",
-   "decks": "6 decks",
-   "share": "7.0%"
+   "share": "15.0%"
   },
   {
    "name": "Enel (Yellow)",
    "decks": "5 decks",
-   "share": "5.8%"
+   "share": "6.3%"
   },
   {
    "name": "Monkey.D.Luffy (Purple/Red)",
    "decks": "5 decks",
-   "share": "5.8%"
+   "share": "6.3%"
   }
  ]
 }
