@@ -1,61 +1,116 @@
 {
  "set": "OP14",
- "updated": "2026-11-20 11:00 KST",
+ "updated": "2026-11-21 10:55 KST",
  "decks": [
   {
    "name": "Imu (Black)",
-   "decks": "64 decks",
-   "share": "34.4%"
-  },
-  {
-   "name": "Donquixote Rosinante (Purple/Yellow)",
-   "decks": "28 decks",
-   "share": "15.1%"
-  },
-  {
-   "name": "Sanji (Blue/Purple)",
-   "decks": "14 decks",
-   "share": "7.5%"
+   "decks": "103 decks",
+   "share": "26.1%"
   },
   {
    "name": "Donquixote Doflamingo (Purple)",
-   "decks": "11 decks",
-   "share": "5.9%"
+   "decks": "41 decks",
+   "share": "10.4%"
+  },
+  {
+   "name": "Donquixote Rosinante (Purple/Yellow)",
+   "decks": "38 decks",
+   "share": "9.6%"
+  },
+  {
+   "name": "Sanji (Blue/Purple)",
+   "decks": "26 decks",
+   "share": "6.6%"
   },
   {
    "name": "Monkey.D.Luffy (Green/Red)",
-   "decks": "9 decks",
-   "share": "4.8%"
-  },
-  {
-   "name": "Monkey.D.Luffy (Yellow)",
-   "decks": "9 decks",
-   "share": "4.8%"
-  },
-  {
-   "name": "Gecko Moria (Black/Yellow)",
-   "decks": "7 decks",
-   "share": "3.8%"
-  },
-  {
-   "name": "Trafalgar Law (Green/Red)",
-   "decks": "6 decks",
-   "share": "3.2%"
-  },
-  {
-   "name": "Sabo (Black/Red)",
-   "decks": "6 decks",
-   "share": "3.2%"
+   "decks": "24 decks",
+   "share": "6.1%"
   },
   {
    "name": "Crocodile (Black)",
-   "decks": "5 decks",
-   "share": "2.7%"
+   "decks": "17 decks",
+   "share": "4.3%"
   },
   {
    "name": "Jewelry Bonney (Green)",
+   "decks": "16 decks",
+   "share": "4.1%"
+  },
+  {
+   "name": "Monkey.D.Luffy (Yellow)",
+   "decks": "13 decks",
+   "share": "3.3%"
+  },
+  {
+   "name": "Gecko Moria (Black/Yellow)",
+   "decks": "13 decks",
+   "share": "3.3%"
+  },
+  {
+   "name": "Trafalgar Law (Green/Red)",
+   "decks": "12 decks",
+   "share": "3.0%"
+  },
+  {
+   "name": "Sabo (Black/Red)",
+   "decks": "12 decks",
+   "share": "3.0%"
+  },
+  {
+   "name": "Monkey.D.Luffy (Green/Purple)",
+   "decks": "9 decks",
+   "share": "2.3%"
+  },
+  {
+   "name": "Portgas.D.Ace (Blue/Red)",
+   "decks": "7 decks",
+   "share": "1.8%"
+  },
+  {
+   "name": "Shirahoshi (Green/Yellow)",
+   "decks": "6 decks",
+   "share": "1.5%"
+  },
+  {
+   "name": "Lim (Green/Purple)",
+   "decks": "5 decks",
+   "share": "1.3%"
+  },
+  {
+   "name": "Gol.D.Roger (Purple/Red)",
+   "decks": "5 decks",
+   "share": "1.3%"
+  },
+  {
+   "name": "Boa Hancock (Blue/Yellow)",
+   "decks": "5 decks",
+   "share": "1.3%"
+  },
+  {
+   "name": "Marshall.D.Teach (Black)",
+   "decks": "5 decks",
+   "share": "1.3%"
+  },
+  {
+   "name": "Nefeltari Vivi (Blue/Red)",
    "decks": "4 decks",
-   "share": "2.2%"
+   "share": "1.0%"
+  },
+  {
+   "name": "Trafalgar Law (Red)",
+   "decks": "4 decks",
+   "share": "1.0%"
+  },
+  {
+   "name": "Monkey.D.Luffy (Blue/Purple)",
+   "decks": "3 decks",
+   "share": "0.8%"
+  },
+  {
+   "name": "Roronoa Zoro (Green)",
+   "decks": "3 decks",
+   "share": "0.8%"
   }
  ]
 }

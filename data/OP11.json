@@ -1,86 +1,116 @@
 {
  "set": "OP11",
- "updated": "2026-11-20 10:59 KST",
+ "updated": "2026-11-21 10:55 KST",
  "decks": [
   {
-   "name": "Belo Betty (Red/Yellow)",
-   "decks": "42 decks",
-   "share": "20.3%"
-  },
-  {
    "name": "Monkey.D.Luffy (Green/Purple)",
-   "decks": "41 decks",
-   "share": "19.8%"
+   "decks": "62 decks",
+   "share": "16.5%"
   },
   {
-   "name": "Jewelry Bonney (Green)",
-   "decks": "15 decks",
-   "share": "7.2%"
-  },
-  {
-   "name": "Trafalgar Law (Green/Yellow)",
-   "decks": "14 decks",
-   "share": "6.8%"
-  },
-  {
-   "name": "Marshall.D.Teach (Black)",
-   "decks": "13 decks",
-   "share": "6.3%"
+   "name": "Belo Betty (Red/Yellow)",
+   "decks": "56 decks",
+   "share": "14.9%"
   },
   {
    "name": "Monkey.D.Luffy (Purple)",
-   "decks": "13 decks",
-   "share": "6.3%"
+   "decks": "26 decks",
+   "share": "6.9%"
+  },
+  {
+   "name": "Jewelry Bonney (Green)",
+   "decks": "23 decks",
+   "share": "6.1%"
+  },
+  {
+   "name": "Monkey.D.Luffy (Blue/Purple)",
+   "decks": "21 decks",
+   "share": "5.6%"
+  },
+  {
+   "name": "Trafalgar Law (Green/Yellow)",
+   "decks": "21 decks",
+   "share": "5.6%"
   },
   {
    "name": "Rob Lucci (Black)",
-   "decks": "12 decks",
-   "share": "5.8%"
+   "decks": "21 decks",
+   "share": "5.6%"
   },
   {
-   "name": "Monkey.D.Luffy (Black/Purple)",
-   "decks": "11 decks",
+   "name": "Marshall.D.Teach (Black)",
+   "decks": "20 decks",
    "share": "5.3%"
   },
   {
    "name": "Smoker (Green/Red)",
-   "decks": "9 decks",
+   "decks": "16 decks",
    "share": "4.3%"
   },
   {
-   "name": "Monkey.D.Luffy (Blue/Purple)",
-   "decks": "6 decks",
+   "name": "Roronoa Zoro (Red)",
+   "decks": "12 decks",
+   "share": "3.2%"
+  },
+  {
+   "name": "Monkey.D.Luffy (Black/Purple)",
+   "decks": "11 decks",
    "share": "2.9%"
   },
   {
-   "name": "Roronoa Zoro (Red)",
-   "decks": "4 decks",
-   "share": "1.9%"
-  },
-  {
-   "name": "Buggy (Blue)",
-   "decks": "4 decks",
+   "name": "Marco (Blue/Red)",
+   "decks": "7 decks",
    "share": "1.9%"
   },
   {
    "name": "Yamato (Green/Yellow)",
-   "decks": "4 decks",
+   "decks": "7 decks",
    "share": "1.9%"
+  },
+  {
+   "name": "Charlotte Katakuri (Purple)",
+   "decks": "6 decks",
+   "share": "1.6%"
+  },
+  {
+   "name": "Enel (Yellow)",
+   "decks": "6 decks",
+   "share": "1.6%"
+  },
+  {
+   "name": "Buggy (Blue)",
+   "decks": "5 decks",
+   "share": "1.3%"
+  },
+  {
+   "name": "Edward.Newgate (Red)",
+   "decks": "5 decks",
+   "share": "1.3%"
+  },
+  {
+   "name": "Vinsmoke Reiju (Blue/Purple)",
+   "decks": "5 decks",
+   "share": "1.3%"
+  },
+  {
+   "name": "Koby (Black/Red)",
+   "decks": "4 decks",
+   "share": "1.1%"
+  },
+  {
+   "name": "Charlotte Pudding (Purple/Yellow)",
+   "decks": "4 decks",
+   "share": "1.1%"
   },
   {
    "name": "Eustass\"Captain\"Kid (Yellow)",
    "decks": "3 decks",
-   "share": "1.4%"
+   "share": "0.8%"
   },
   {
-   "name": "Marco (Blue/Red)",
+   "name": "Vegapunk (Yellow)",
    "decks": "3 decks",
-   "share": "1.4%"
-  },
-  {
-   "name": "Edward.Newgate (Red)",
-   "decks": "3 decks",
-   "share": "1.4%"
+   "share": "0.8%"
   }
  ]
 }

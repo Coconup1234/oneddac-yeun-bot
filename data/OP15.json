@@ -1,61 +1,91 @@
 {
  "set": "OP15",
- "updated": "2026-11-20 11:00 KST",
+ "updated": "2026-11-21 10:55 KST",
  "decks": [
   {
    "name": "Enel (Purple)",
-   "decks": "159 decks",
-   "share": "35.5%"
+   "decks": "192 decks",
+   "share": "33.3%"
   },
   {
    "name": "Nami (Blue/Yellow)",
-   "decks": "121 decks",
-   "share": "27.0%"
+   "decks": "137 decks",
+   "share": "23.7%"
   },
   {
    "name": "Lucy (Blue/Red)",
-   "decks": "55 decks",
-   "share": "12.3%"
+   "decks": "72 decks",
+   "share": "12.5%"
   },
   {
    "name": "Portgas.D.Ace (Blue/Red)",
-   "decks": "27 decks",
-   "share": "6.0%"
+   "decks": "36 decks",
+   "share": "6.2%"
   },
   {
    "name": "Monkey.D.Luffy (Green/Red)",
-   "decks": "21 decks",
+   "decks": "27 decks",
    "share": "4.7%"
   },
   {
    "name": "Monkey.D.Luffy (Yellow)",
-   "decks": "19 decks",
-   "share": "4.2%"
+   "decks": "22 decks",
+   "share": "3.8%"
   },
   {
    "name": "Crocodile (Black)",
-   "decks": "9 decks",
-   "share": "2.0%"
+   "decks": "15 decks",
+   "share": "2.6%"
   },
   {
    "name": "Kalgara (Yellow)",
-   "decks": "5 decks",
-   "share": "1.1%"
+   "decks": "11 decks",
+   "share": "1.9%"
   },
   {
    "name": "Monkey.D.Luffy (Green/Purple)",
+   "decks": "8 decks",
+   "share": "1.4%"
+  },
+  {
+   "name": "Brook (Black/Green)",
    "decks": "5 decks",
-   "share": "1.1%"
+   "share": "0.9%"
   },
   {
    "name": "Jewelry Bonney (Green)",
    "decks": "4 decks",
-   "share": "0.9%"
+   "share": "0.7%"
   },
   {
    "name": "Enel (Yellow)",
-   "decks": "3 decks",
+   "decks": "4 decks",
    "share": "0.7%"
+  },
+  {
+   "name": "Gecko Moria (Black/Yellow)",
+   "decks": "4 decks",
+   "share": "0.7%"
+  },
+  {
+   "name": "Marshall.D.Teach (Black)",
+   "decks": "4 decks",
+   "share": "0.7%"
+  },
+  {
+   "name": "Jewelry Bonney (Red/Yellow)",
+   "decks": "3 decks",
+   "share": "0.5%"
+  },
+  {
+   "name": "Gol.D.Roger (Purple/Red)",
+   "decks": "3 decks",
+   "share": "0.5%"
+  },
+  {
+   "name": "Monkey.D.Luffy (Yellow)",
+   "decks": "3 decks",
+   "share": "0.5%"
   }
  ]
 }

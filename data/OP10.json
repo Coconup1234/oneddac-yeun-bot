@@ -1,96 +1,116 @@
 {
  "set": "OP10",
- "updated": "2026-11-20 10:59 KST",
+ "updated": "2026-11-21 10:55 KST",
  "decks": [
   {
    "name": "Shanks (Red)",
-   "decks": "85 decks",
-   "share": "17.6%"
+   "decks": "103 decks",
+   "share": "16.2%"
   },
   {
    "name": "Marshall.D.Teach (Black)",
-   "decks": "80 decks",
-   "share": "16.5%"
+   "decks": "98 decks",
+   "share": "15.4%"
   },
   {
    "name": "Monkey.D.Luffy (Green/Purple)",
-   "decks": "44 decks",
-   "share": "9.1%"
-  },
-  {
-   "name": "Rob Lucci (Black)",
-   "decks": "42 decks",
-   "share": "8.7%"
+   "decks": "61 decks",
+   "share": "9.6%"
   },
   {
    "name": "Monkey.D.Luffy (Purple)",
-   "decks": "38 decks",
-   "share": "7.9%"
+   "decks": "50 decks",
+   "share": "7.8%"
   },
   {
-   "name": "Lim (Green/Purple)",
-   "decks": "27 decks",
-   "share": "5.6%"
+   "name": "Rob Lucci (Black)",
+   "decks": "44 decks",
+   "share": "6.9%"
   },
   {
    "name": "Jewelry Bonney (Green)",
-   "decks": "25 decks",
+   "decks": "42 decks",
+   "share": "6.6%"
+  },
+  {
+   "name": "Lim (Green/Purple)",
+   "decks": "33 decks",
    "share": "5.2%"
   },
   {
    "name": "Usopp (Black/Blue)",
-   "decks": "24 decks",
-   "share": "5.0%"
+   "decks": "33 decks",
+   "share": "5.2%"
   },
   {
    "name": "Roronoa Zoro (Red)",
-   "decks": "22 decks",
-   "share": "4.5%"
-  },
-  {
-   "name": "Donquixote Doflamingo (Blue)",
-   "decks": "19 decks",
+   "decks": "25 decks",
    "share": "3.9%"
   },
   {
-   "name": "Vinsmoke Reiju (Blue/Purple)",
-   "decks": "12 decks",
-   "share": "2.5%"
+   "name": "Enel (Yellow)",
+   "decks": "22 decks",
+   "share": "3.5%"
   },
   {
-   "name": "Enel (Yellow)",
-   "decks": "10 decks",
-   "share": "2.1%"
+   "name": "Donquixote Doflamingo (Blue)",
+   "decks": "21 decks",
+   "share": "3.3%"
   },
   {
    "name": "Smoker (Green/Red)",
-   "decks": "9 decks",
+   "decks": "15 decks",
+   "share": "2.4%"
+  },
+  {
+   "name": "Vinsmoke Reiju (Blue/Purple)",
+   "decks": "13 decks",
+   "share": "2.0%"
+  },
+  {
+   "name": "Eustass\"Captain\"Kid (Yellow)",
+   "decks": "12 decks",
    "share": "1.9%"
+  },
+  {
+   "name": "Marco (Blue/Red)",
+   "decks": "9 decks",
+   "share": "1.4%"
+  },
+  {
+   "name": "Monkey.D.Luffy (Purple/Red)",
+   "decks": "7 decks",
+   "share": "1.1%"
   },
   {
    "name": "Belo Betty (Red/Yellow)",
    "decks": "6 decks",
-   "share": "1.2%"
-  },
-  {
-   "name": "Marco (Blue/Red)",
-   "decks": "6 decks",
-   "share": "1.2%"
+   "share": "0.9%"
   },
   {
    "name": "Edward.Newgate (Red)",
    "decks": "5 decks",
-   "share": "1.0%"
+   "share": "0.8%"
   },
   {
-   "name": "Eustass\"Captain\"Kid (Yellow)",
-   "decks": "5 decks",
-   "share": "1.0%"
+   "name": "Uta (Green)",
+   "decks": "3 decks",
+   "share": "0.5%"
   },
   {
-   "name": "Monkey.D.Luffy (Purple/Red)",
-   "decks": "5 decks",
-   "share": "1.0%"
+   "name": "Vegapunk (Yellow)",
+   "decks": "3 decks",
+   "share": "0.5%"
+  },
+  {
+   "name": "Boa Hancock (Blue)",
+   "decks": "3 decks",
+   "share": "0.5%"
+  },
+  {
+   "name": "Sugar (Purple/Red)",
+   "decks": "3 decks",
+   "share": "0.5%"
   }
  ]
 }

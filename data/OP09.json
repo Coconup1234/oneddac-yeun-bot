@@ -1,41 +1,46 @@
 {
  "set": "OP09",
- "updated": "2026-11-20 10:59 KST",
+ "updated": "2026-11-21 10:55 KST",
  "decks": [
   {
    "name": "Monkey.D.Luffy (Purple)",
-   "decks": "57 decks",
-   "share": "28.1%"
+   "decks": "60 decks",
+   "share": "26.4%"
   },
   {
    "name": "Shanks (Red)",
-   "decks": "42 decks",
+   "decks": "47 decks",
    "share": "20.7%"
   },
   {
    "name": "Marshall.D.Teach (Black)",
-   "decks": "36 decks",
-   "share": "17.7%"
+   "decks": "40 decks",
+   "share": "17.6%"
   },
   {
    "name": "Jewelry Bonney (Green)",
-   "decks": "21 decks",
-   "share": "10.3%"
+   "decks": "25 decks",
+   "share": "11.0%"
   },
   {
    "name": "Monkey.D.Luffy (Purple/Red)",
-   "decks": "19 decks",
-   "share": "9.4%"
+   "decks": "22 decks",
+   "share": "9.7%"
   },
   {
    "name": "Enel (Yellow)",
-   "decks": "18 decks",
-   "share": "8.9%"
+   "decks": "21 decks",
+   "share": "9.3%"
   },
   {
    "name": "Belo Betty (Red/Yellow)",
+   "decks": "4 decks",
+   "share": "1.8%"
+  },
+  {
+   "name": "Nico Robin (Purple/Yellow)",
    "decks": "3 decks",
-   "share": "1.5%"
+   "share": "1.3%"
   }
  ]
 }
